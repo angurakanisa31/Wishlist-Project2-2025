@@ -36,4 +36,4 @@ const Product = ({ addToWishlist }) => {
   );
 };
 
-export default Product;
+export default Product;
